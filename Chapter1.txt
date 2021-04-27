@@ -1,1 +1,2 @@
-This is test for git
+This is test for git.
+New modify
